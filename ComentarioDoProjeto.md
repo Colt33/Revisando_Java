@@ -3,4 +3,4 @@ Quero trabalhar com Java, quero estudar e me aprimorar na tecnologia, quero cria
 
 Os Devs dessa era são como os pedreiros de eras passadas, queremos compartilhar o conhecimento de forma livre, mas não queremos que aqueles que não são da área seja conhecedor de nossos misterios
 Após concluir minha revisão irei buscar estudar as IAs e um pouco sobre computação e computação quantica, aquilo que se encontra entre 0 e 1 está na incerteza ou seria outras certezas, e...
-se há coisas entre 0 e 1 pode haver algo que posterga o 1 e antecede o 0.
+se há coisas entre 0 e 1 pode haver algo que sucede o 1 e antecede o 0.
