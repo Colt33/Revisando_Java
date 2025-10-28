@@ -10,10 +10,14 @@ public class Aula05_ArraysList {
         nomes.add("Joao");
         nomes.add("Flavio");
 
-        System.out.println(nomes.get(2));
+        //System.out.println(nomes.get(2));
 
-        nomes.remove(0);
-        System.out.println(nomes.get(2));
+        //nomes.remove(0);
+        //System.out.println(nomes.get(2));
+
+        for (int i = 0; i < nomes.size(); i++){
+            System.out.println( nomes.get(i));
+        }
 
     }
 }
